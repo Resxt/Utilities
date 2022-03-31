@@ -1,0 +1,1 @@
+rmdir /s /q %localappdata%\Plutonium\storage\iw5\mods
